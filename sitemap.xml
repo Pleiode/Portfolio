@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://jolypaul.com/</loc>
+  <lastmod>2021-04-18T18:00:04+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://jolypaul.com/about</loc>
+  <lastmod>2021-04-18T18:00:04+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://jolypaul.com/PaulJoly-resume.pdf</loc>
+  <lastmod>2021-03-10T19:14:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://jolypaul.com/agora</loc>
+  <lastmod>2021-04-18T18:00:04+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://jolypaul.com/nauxi</loc>
+  <lastmod>2021-04-18T18:00:04+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://jolypaul.com/chroma.php</loc>
+  <lastmod>2021-04-18T18:00:04+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://jolypaul.com/arplanet</loc>
+  <lastmod>2021-04-18T18:00:04+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://jolypaul.com/amyna</loc>
+  <lastmod>2021-04-18T18:00:04+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://jolypaul.com/index</loc>
+  <lastmod>2021-04-18T18:00:04+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://jolypaul.com/index.php</loc>
+  <lastmod>2021-04-18T18:00:04+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+
+
+</urlset>
