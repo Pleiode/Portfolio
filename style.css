@@ -187,9 +187,10 @@ mark {
 }
 
 .social {
-    padding-top: 1.5em;
-    width: 100%;
-    justify-content: space-between;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 15em;
 }
 
 .card {
