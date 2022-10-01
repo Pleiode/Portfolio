@@ -1,4 +1,4 @@
-<div style="background-color:#74FFC4; height: 3em;">
+<div class="eco" style="background-color:#74FFC4; height: 3em;">
 
     <div style="display: flex; " class="container">
 
@@ -22,7 +22,7 @@
                     <rect x="1.5" y="1.5" width="174" height="33" rx="8.5" fill="none" />
                 </g>
                 <text id="_0.86g_de_CO2_View" data-name="0.86g de CO2 /View" transform="translate(704 6732)" fill="#3db19b" font-size="16" font-family="Poppins-Bold, Poppins" font-weight="600" letter-spacing="0">
-                    <tspan x="1.76" y="17">0.38g de CO</tspan>
+                    <tspan x="1.76" y="17">0.4g de CO</tspan>
                     <tspan y="17" font-size="9.333" baseline-shift="-5.33279994943018">2 </tspan>
                     <tspan y="17">/View</tspan>
                 </text>

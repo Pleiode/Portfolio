@@ -74,7 +74,7 @@
 
 
 
-        <h4 style="padding-top: 5em;">Latest Update 29/06/2022 - Self-coded website made from scratch with a low CO2 emission for 🌍,
+        <h4 style="padding-top: 5em;">Latest Update 12/09/2022 - Self-coded website made from scratch with a low CO2 emission for 🌍,
             tested on<a target="_blank" style="text-decoration:underline" href="https://www.websitecarbon.com/website/jolypaul-com/">websitecarbon.com</a></h4>
 
     </div>

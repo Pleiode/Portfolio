@@ -10,9 +10,8 @@ padding-bottom: 10px;
 border-radius: 50px;
 padding-top: 0px;
 padding-bottom: 0px;
-width: 7.6em;
 float: right;
 margin-top: 19px;
 text-aligne:center;" 
 ``
-><p style="color: black;font-weight: 600;font-size: 15px;">Work In Progress</p></div>
+><p style="color: black;font-weight: 600;font-size: 15px;">New project</p></div>

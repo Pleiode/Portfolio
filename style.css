@@ -14,10 +14,10 @@ header {
     position: relative;
     font-size: 100%;
     background: #111111;
-    min-height: 80vh;
     color: #fff;
     display: flex;
     flex-direction: column;
+    padding-block-end: 100px;
 }
 
 nav .desk-menu {
@@ -76,7 +76,7 @@ h1 {
     font-family:  var(--main-bg-font);
     font-weight: 700;
     color: white;
-    font-size: 55px;
+    font-size: 48px;
     margin: 0;
     letter-spacing: normal;
     -webkit-font-smoothing: antialiased;
@@ -221,10 +221,9 @@ mark {
 }
 
 .containerproject {
-    padding-top: 1em;
     display: grid;
     grid-template-columns: repeat(4, 1fr);
-    grid-gap: 3em;
+    grid-gap: 20px;
 }
 
 footer {
@@ -347,18 +346,22 @@ button:active {
 
 @media screen and (max-width: 1200px) {
     .containerproject {
-        padding-top: 2%;
         display: grid;
         grid-template-columns: repeat(2, 1fr);
-        grid-gap: 3em;
+        grid-gap: 20px;
     }
     .container {
         margin: auto;
         width: 85%;
         height: 100%;
+        padding-block-start: 40px;
+    }
+
+    .eco .container {
+        padding-block-start: 0;
     }
     h1 {
-        font-size: 40px;
+        font-size: 32px;
         word-break: break-word;
     }
     nav .desk-menu {
@@ -374,6 +377,8 @@ button:active {
         margin-left: 20%;
         margin-right: 20%;
     }
+
+   
 
 }
 
@@ -396,7 +401,6 @@ button:active {
         padding-top: 2em;
     }
     .containerproject {
-        padding-top: 2%;
         display: grid;
         grid-template-columns: repeat(1, 1fr);
     }
@@ -434,8 +438,9 @@ button:active {
         font-size: 17px;
     }
 
-    h2 {
-        font-size: 35px;
+  
+    header {
+        padding-block-end: 20px;
     }
 }
 
